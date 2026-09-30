@@ -9,7 +9,7 @@ The script groups alignments by read identifier, excludes supplementary alignmen
 Python dependency:
 
 ```text
-pysam
+pysam 0.23.3
 ```
 
 Input files must be readable BAM files.
