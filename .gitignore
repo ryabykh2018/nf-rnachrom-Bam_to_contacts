@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# data
+*.bam
+*.bai
+*.sam
+*.cram
+data/
+*.log
